@@ -13,7 +13,7 @@ The project "Climate Vision" serves as a comprehensive exploration of the pivota
 
 Moreover, against the backdrop of escalating environmental concerns and the surge of youth-led protest movements such as Fridays For Future, the significance of visual imagery in fostering political participation and galvanizing collective action has become increasingly apparent. By investigating the types of images that evoke robust reactions and emotional responses among social media users, this project aims to elucidate the mechanisms through which visual narratives of climate change resonate within online communities. Through a multidisciplinary approach integrating insights from computational social science, political psychology, and media studies, this inquiry seeks to contribute valuable insights into harnessing the communicative power of images to advance discourse, advocacy, and public engagement surrounding the pressing issue of climate change.
 
-<br>
+<br><br>
 
 
 
