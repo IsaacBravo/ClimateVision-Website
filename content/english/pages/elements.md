@@ -8,9 +8,113 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< toc >}}
+<!-- {{< toc >}} -->
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+### Project Publications:
+<hr style="border:2px solid #f2f2f2;">
+
+<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<h4>Title Paper 1 Climate Vision Project Template</h3>
+<p class="block">
+    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter and Margret Keuper
+    <br>
+    <strong>Date Published: </strong>Month_Name XX, 202X
+    <br><br>
+    <strong>Abstract: </strong>
+    <br>
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <br><br>
+    <strong>Citation:</strong> 
+    Prasse, K. et al. (Year) Title Paper. <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">https://doi.org/10.1038/s41597-022-01616-8</a>
+    <br>
+    <strong>Download the paper <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">here.</a></strong>
+ </p>
+</div>
+<br>
+
+<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<h4>Title Paper 2 Climate Vision Project Template</h3>
+<p class="block">
+    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter and Margret Keuper
+    <br>
+    <strong>Date Published: </strong>Month_Name XX, 202X
+    <br><br>
+    <strong>Abstract: </strong>
+    <br>
+    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <br><br>
+    <strong>Citation:</strong> 
+    Prasse, K. et al. (Year) Title Paper. <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">https://doi.org/10.1038/s41597-022-01616-8</a>
+    <br>
+    <strong>Download the paper <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">here.</a></strong>
+ </p>
+</div>
+
+<hr style="border:2px solid #f2f2f2;">
+
+### Conference Presentations:
+
+<hr style="border:2px solid #f2f2f2;">
+
+<div style="background-color: white; border-radius: 10px; padding: 0px;">
+
+{{< accordion "2023" >}}
+
+<h5>Analysing the Role of Social Media in Shaping Public Opinion on Climate Change: A Comparative Study Across Regions Using Automated Image and Text Analysis.</h3>
+<p class="block" style="background-color: transparent;">
+    <strong>Conference Name: </strong>WAPOR 76th Annual Conference
+    <br>
+    <strong>Location: </strong>Salzburg, Austria
+    <br>
+    <strong>Author(s): </strong>Isaac Bravo, Katharina Prasse, Stefanie Walter & Margret Keuper
+    <br>
+    <strong>Date Presentation: </strong>28th-29th September, 2023
+    <br><br>
+    <strong>More information about the Conference, see </strong><a class="link" href= "https://wapor.org/events/annual-conference/past-conferences/76th-annual-conference/">here.</a>
+ </p><br>
+
+<h5>Analysing the effects of visual framing on social media in shaping people’s emotional engagement on climate change.</h3>
+<p class="block" style="background-color: transparent;">
+    <strong>Workshop Name: </strong>Emotions in European Climate Politics workshop
+    <br>
+    <strong>Location: </strong>Amsterdam, Netherlands
+    <br>
+    <strong>Author(s): </strong>Isaac Bravo, Katharina Prasse, Stefanie Walter & Margret Keuper
+    <br>
+    <strong>Date Presentation: </strong>19-22 September, 2023 
+    <br><br>
+    <strong>More information about the Workshop, see </strong><a class="link" href= "https://eufeels.com/2023/04/18/emotions-in-european-climate-politics-call-for-papers-amsterdam-28th-29th-september-2023/">here.</a>
+ </p><br>
+
+{{< /accordion >}}
+
+
+{{< accordion "2024" >}}
+<h4>Detecting Manipulated Visuals: A Computational Approach in the Climate Change Discourse.</h3>
+<p class="block" style="background-color: transparent;">
+    <strong>Conference Name: </strong>Annual Conference of the “Science Communication” Division (DGPuK)
+    <br>
+    <strong>Location: </strong>Zurich, Switzerland
+    <br>
+    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter & Margret Keuper
+    <br>
+    <strong>Date Presentation: </strong>June 6-7, 2024 
+    <br><br>
+    <strong>More information about the Conference, see </strong><a class="link" href= "https://ikmz.uzh.ch/en/aiscicomm24">here.</a>
+ </p><br>
+{{< /accordion >}}
+
+
+
+
+
+</div>
+<br>
+
+
+<br><br><br><br><br>
+
+<!-- Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6. -->
 
 # Heading 1
 
