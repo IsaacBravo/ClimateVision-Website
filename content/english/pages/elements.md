@@ -1,5 +1,5 @@
 ---
-title: "Elements"
+title: "Publications"
 # meta title
 meta_title: ""
 # meta description
