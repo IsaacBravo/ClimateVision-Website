@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "News"
-url = "blog/"
+url = "news/"
 weight = 5
 
 [[main]]

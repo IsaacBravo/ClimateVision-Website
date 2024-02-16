@@ -50,4 +50,7 @@ features:
       enable: false
       label: ""
       link: ""
+
+  - image: "/images/BMBF_Logo.png"
+    content: "The ClimateVisions project is funded by the Bundesministeriums für Bildung und Forschung (BMBF)."
 ---
