@@ -1,7 +1,7 @@
 ---
 title: Katharina Prasse
 email: prasse@uni-mannheim.de
-image: "/images/avatar.png"
+image: "/images/katharina_foto.png"
 description: this is meta description
 social:
   - name: github
@@ -18,5 +18,6 @@ social:
 weight: 300
 ---
 
-PhD. Candidate on Visual Computing. University of Mannheim,  
-Data and Web Science Group 
+Doctoral Candidate.
+University of Mannheim.
+Data and Web Science Group, Chair of Machine Learning. 
