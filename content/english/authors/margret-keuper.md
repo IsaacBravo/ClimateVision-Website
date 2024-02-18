@@ -16,4 +16,5 @@ weight: 200
 ---
 
 University of Mannheim. 
-Data and Web Science Group 
+Data and Web Science Group.
+Chair of Machine Learning.
