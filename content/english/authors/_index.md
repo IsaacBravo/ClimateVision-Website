@@ -1,3 +1,3 @@
 ---
-title: "Researches"
+title: "Researchers"
 ---
