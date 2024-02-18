@@ -14,20 +14,20 @@ draft: false
 <hr style="border:2px solid #f2f2f2;">
 
 <div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
-<h4>Title Paper 1 Climate Vision Project Template</h3>
+<h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h3>
 <p class="block">
-    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter and Margret Keuper
+    <strong>Author(s): </strong>Katharina Prasse, Steffen Jung, Isaac Bravo, Stefanie Walter, and Margret Keuper
     <br>
-    <strong>Date Published: </strong>Month_Name XX, 202X
+    <strong>Date Published: </strong>December 16, 2023
     <br><br>
     <strong>Abstract: </strong>
     <br>
-    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Climate perceptions shared on social media are an invaluable barometer of public attention. By directing research towards this topic, we can eventually improve the effectiveness of climate change communication, increase public engagement, and enhance climate change education. We propose two real-world image datasets to promote impactful research both in the Computer Vision community and beyond. Firstly, ClimateTV, a dataset containing over 700,000 climate change-related images posted on Twitter and labelled on basis of the image hashtags. Secondly, ClimateCT, a Twitter dataset containing images with five-dimensional annotations in super-categories (i) Animals, (ii) Climate action, (iii) Consequences, (iv) Setting, and (v) Type. These challenging classification datasets contain classes which are designed according to their relevance in the context of climate change. The challenging nature of the datasets is given by varying class diversities (e.g. polar bear vs. land mammal) and foci (e.g. arctic vs. snowy residential area). The analyses of our datasets using CLIP embeddings and query optimization (CoCoOp) further showcase the challenging nature of ClimateTV and ClimateCT.
     <br><br>
     <strong>Citation:</strong> 
-    Prasse, K. et al. (Year) Title Paper. <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">https://doi.org/10.1038/s41597-022-01616-8</a>
+    Prasse, K. et al. (2023) Towards Understanding Climate Change Perceptions: A Social Media Dataset. <a class="link" href= "https://www.climatechange.ai/papers/neurips2023/3">https://www.climatechange.ai/papers/neurips2023/3</a>
     <br>
-    <strong>Download the paper <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">here.</a></strong>
+    <strong>Download the <a class="link" href= "https://www.climatechange.ai/papers/neurips2023/3">paper</a> and the <a class="link" href= "https://github.com/KathPra/Datasets_ClimateVisions">data</a>.</strong>
  </p>
 </div>
 <br>
@@ -60,6 +60,20 @@ draft: false
 
 {{< accordion "2023" >}}
 
+<h5>Towards Understanding Climate Change Perceptions: A Social Media Dataset.</h3>
+<p class="block" style="background-color: transparent;">
+    <strong>Workshop Name: </strong>Tackling Climate Change with Machine Learning
+    <br>
+    <strong>Location: </strong>New Orleans, USA
+    <br>
+    <strong>Author(s): </strong>Katharina Prasse, Steffen Jung, Isaac Bravo, Stefanie Walter & Margret Keuper
+    <br>
+    <strong>Date Presentation: </strong>16 December, 2023 
+    <br><br>
+    <strong>More information about the Workshop, see </strong><a class="link" href= "https://www.climatechange.ai/events/neurips2023">here.</a>
+ </p><br>
+{{< /accordion >}}
+
 <h5>Analysing the Role of Social Media in Shaping Public Opinion on Climate Change: A Comparative Study Across Regions Using Automated Image and Text Analysis.</h3>
 <p class="block" style="background-color: transparent;">
     <strong>Conference Name: </strong>WAPOR 76th Annual Conference
@@ -86,7 +100,6 @@ draft: false
     <strong>More information about the Workshop, see </strong><a class="link" href= "https://eufeels.com/2023/04/18/emotions-in-european-climate-politics-call-for-papers-amsterdam-28th-29th-september-2023/">here.</a>
  </p><br>
 
-{{< /accordion >}}
 
 
 {{< accordion "2024" >}}
