@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section pt-7">
     <div class="container">
-      <div class="row justify-center">
+      <div class="row text-justify">
         <article class="lg:col-10">
           {{ $image:= .Params.image }}
           {{ if $image }}
@@ -69,8 +69,8 @@
           {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
-            </div>
-          {{ end }}
+            </div> 
+          {{ end }} 
         </article>
       </div>
 

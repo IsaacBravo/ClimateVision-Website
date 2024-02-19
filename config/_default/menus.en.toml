@@ -32,24 +32,30 @@ url = "imprint/"
 weight = 6
 
 [[main]]
-weight = 7
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
+# parent = "Pages"
 name = "Contact Us"
 url = "contact/"
+weight = 7
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
+# [[main]]
+# weight = 7
+# name = "Pages"
+# hasChildren = true
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact Us"
+# url = "contact/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
 
 # [[main]]
 # parent = "Pages"

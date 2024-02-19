@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/aiscicomm24.jpg"
-categories: ["Technology", "Data"]
+categories: ["Technology", "Data", "Science Communication", "Text Analysis"]
 author: "Katharina Prasse"
 tags: ["Science Communication", "AISCICOMM2024"]
 draft: false

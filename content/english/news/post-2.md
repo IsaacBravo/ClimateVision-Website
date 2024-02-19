@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/NEURIPS.jpg"
-categories: ["Technology", "Data"]
+categories: ["Technology", "Data", "Science Communication"]
 author: "Katharina Prasse"
 tags: ["Climate Change AI", "NEURIPS2023"]
 draft: false

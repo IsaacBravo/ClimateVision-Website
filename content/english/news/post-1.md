@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-01-18T05:00:00Z
 image: "/images/news01.jpeg"
-categories: ["Application", "Data"]
+categories: ["Workshop", "Science Communication"]
 author: "Isaac Bravo"
 tags: ["Journalism", "AI", "Science Communication"]
 draft: false

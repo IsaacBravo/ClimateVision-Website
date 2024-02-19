@@ -23,4 +23,4 @@ The Climate Vision Project website serves as a central hub for accessing project
 ## Contributors
 
 - Isaac Bravo ([@IsaacBravo](https://github.com/IsaacBravo))
-- Katharina Prasse ([@KathPra](https://github.com/KathPra)))
+- Katharina Prasse ([@KathPra](https://github.com/KathPra))
