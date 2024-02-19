@@ -27,10 +27,10 @@ features:
       - "all content shared in the years 2019 - 2022"
       - "English, German, French, Spanish, Arabic, Chinese, and Russian"
       - "Image, text, user reactions, and user replies"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+    # button:
+    #  enable: false
+    #  label: "Get Started Now"
+    #  link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Our Toolbox"
     image: ""
