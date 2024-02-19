@@ -88,7 +88,7 @@ name = "Imprint"
 url = "imprint/"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3
