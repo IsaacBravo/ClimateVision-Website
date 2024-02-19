@@ -12,7 +12,7 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Researches"
+name = "Researchers"
 url = "authors/"
 weight = 3
 
@@ -79,7 +79,7 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Researches"
+name = "Researchers"
 url = "authors/"
 weight = 2
 
