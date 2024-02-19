@@ -15,14 +15,14 @@ draft: false
 <h4>Project Contacts:</h3>
 <p class="block">
     <strong>Administrator(s)/Contact(s): </strong>Katharina Prasse
-    <br><strong>Email:</strong> prasse@uni-mannheim.de
-    <br><strong>Address:</strong> XXXXXXXX
+    <br><strong>Email:</strong> katharina.prasse@uni-mannheim.de
+    <br><strong>Address:</strong> B6, 26, 68159 Mannheim
     <br><br>
     <strong>Administrator(s)/Contact(s): </strong>Isaac Bravo
     <br><strong>Email:</strong> isaac.bravo@tum.de
     <br><strong>Address:</strong> Richard-Wagner-Straße 1, 80333 München
     <p style="text-align:center;">
-    ClimateVision Project is a collaborative iniciative between the Techinical University of Munich and the University of Mannheim.
+    ClimateVision Project is a collaborative initiative between the Techinical University of Munich and the University of Mannheim.
      <strong><br><h4 style="text-align:center;">Technical University of Munich</h4></strong>
      <p style="text-align:center;">
      <br>Arcis Street 21 
