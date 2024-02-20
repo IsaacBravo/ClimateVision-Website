@@ -1,11 +1,11 @@
 <header
   class="header {{ if site.Params.navbar_fixed }}sticky top-0{{ end }} z-30"
-  style="background-color: #EDF6F9;">
-  <nav class="navbar container">
+  style="background-color: #006D77; color: white;">
+  <nav class="navbar container" style="color: white;">
     <!-- logo -->
-    <div class="order-0">
+    <div class="order-0" style="color: white;">
       <!-- navbar brand/logo -->
-      <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
+      <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}" style="color: white;">
         {{ partial "logo" }}
       </a>
     </div>
@@ -14,15 +14,16 @@
     <label
       for="nav-toggle"
       class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
-      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20" style="color: white;">
         <title>Menu Open</title>
         <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
       </svg>
-      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20" style="color: white;">
         <title>Menu Close</title>
         <polygon
           points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
-          transform="rotate(45 10 10)"></polygon>
+          transform="rotate(45 10 10)"
+          style="color: white;"></polygon>
       </svg>
     </label>
     <!-- /navbar toggler -->
@@ -30,28 +31,30 @@
     <!-- main navbar -->
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
+      style="color: white;">
       {{ $currentPage := . }}
       {{ range site.Menus.main }}
         {{ $menuURL := .URL | absLangURL }}
         {{ $pageURL:= $currentPage.Permalink | absLangURL }}
         {{ $active := eq $menuURL $pageURL }}
         {{ if .HasChildren }}
-          <li class="nav-item nav-dropdown group relative">
+          <li class="nav-item nav-dropdown group relative" style="color: white;">
             <span
+            style="color: white;"
               class="nav-link {{ range .Children }}
                 {{ $childURL := .URL | absLangURL }}
                 {{ $active := eq $childURL $pageURL }}
                 {{ if $active }}active{{ end }}
               {{ end }} inline-flex items-center">
               {{ .Name }}
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20" style="color: white;">
                 <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
               </svg>
             </span>
             <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100" style="color: white;">
               {{ range .Children }}
                 {{ $childURL := .URL | absLangURL }}
                 {{ $active := eq $childURL $pageURL }}
@@ -78,7 +81,7 @@
             </ul>
           </li>
         {{ else }}
-          <li class="nav-item">
+          <li class="nav-item" style="color: white;">
             <a
               class="nav-link {{ if $active }}active{{- end -}}"
               {{ if findRE `^http` .URL }}
@@ -91,6 +94,7 @@
               {{- else -}}
                 {{- .URL | relLangURL -}}
               {{- end -}}"
+              style="color: white;"
               >{{ .Name }}</a
             >
           </li>

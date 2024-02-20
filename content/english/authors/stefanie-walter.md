@@ -20,4 +20,4 @@ weight: 100
 
 Technical University of Munich. 
 School of Social Sciences and Technology, 
-Department of Governance
+Department of Governance.

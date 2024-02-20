@@ -11,13 +11,15 @@ banner:
 # Features
 features:
   - title: "Our research methods"
-    image: "/images/diagram-project.png"
+    image: "/images/diagram-project-home.png"
     content: "We combine social media research with automated image analyses. Among others we use the following methods:"
     bulletpoints:
-      - "Image classification"
-      - "Sentiment analysis"
-      - "Image manipulation detection"
-      - "Image clustering"
+      - "Image & Text Classification"
+      - "Sentiment Analysis"
+      - "Image Manipulation Detection"
+      - "Image Clustering"
+      - "Text Analysis"
+    
 
 
   - title: "Our data"

@@ -11,9 +11,9 @@ draft: false
 <!-- {{< toc >}} -->
 
 ### Project Publications:
-<hr style="border:2px solid #f2f2f2;">
+<hr style="border:2px solid #006D77;"></hr>
 
-<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<div style="background-color: #F5FAFD; border-radius: 10px; padding: 20px;">
 <h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h3>
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Steffen Jung, Isaac Bravo, Stefanie Walter, and Margret Keuper
@@ -32,7 +32,7 @@ draft: false
 </div>
 <br>
 
-<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<div style="background-color: #F5FAFD; border-radius: 10px; padding: 20px;">
 <h4>Climate Imagery in the Media Landscape: A Systematic Literature Review, Challenges, and Future Research</h3>
 <p class="block">
     <strong>Author(s): </strong>Isaac Bravo, Stefanie Walter, Katharina Prasse and Margret Keuper
@@ -71,13 +71,15 @@ draft: false
 </div> -->
 
 
-<hr style="border:2px solid #f2f2f2;">
+<!-- <hr style="border:2px solid #006D77;"> -->
+<br>
+<br>
 
 ### Conference Presentations:
 
-<hr style="border:2px solid #f2f2f2;">
+<hr style="border:2px solid #006D77;">
 
-<div style="background-color: white; border-radius: 10px; padding: 0px;">
+<div style="background-color: white; border-radius: 10px; padding: 0px; border-color: white">
 
 {{< accordion "2023" >}}
 

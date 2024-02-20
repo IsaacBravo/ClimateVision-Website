@@ -37,7 +37,7 @@ name = "Pages"
 hasChildren = true
 
 [[main]]
-parent = "Tool-Box"
+parent = "Pages"
 name = "Tool-Box"
 url = "tool-book/"
 weight = 8
@@ -48,11 +48,11 @@ name = "Imprint"
 url = "imprint/"
 weight = 9
 
-[[main]]
-parent = "Pages"
-name = "Contact Us"
-url = "contact/"
-weight = 10
+# [[main]]
+# parent = "Pages"
+# name = "Contact Us"
+# url = "contact/"
+# weight = 10
 
 
 

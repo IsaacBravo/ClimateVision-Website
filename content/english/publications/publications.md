@@ -11,7 +11,7 @@ draft: false
 <!-- {{< toc >}} -->
 
 ### Project Publications:
-<hr style="border:2px solid #f2f2f2;">
+<hr style="border:2px solid #006D77;"></hr>
 
 <div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
 <h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h3>

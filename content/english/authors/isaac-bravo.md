@@ -19,4 +19,5 @@ weight: 400
 ---
 
 Doctoral Candidate. Technical University of Munich. 
-School of Social Sciences and Technology.
+School of Social Sciences and Technology, 
+Department of Governance.
