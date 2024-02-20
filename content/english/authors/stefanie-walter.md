@@ -1,7 +1,7 @@
 ---
 title: Stefanie Walter, PhD
 email: stefanie.walter@tum.de
-image: "/images/stefanie_foto.jpg"
+image: "/images/stefanie_foto.png"
 description: this is meta description
 social:
   - name: twitter

@@ -44,6 +44,9 @@ features:
       label: ""
       link: ""
 
-  - image: "/images/BMBF_Logo.png"
-    content: "The ClimateVisions project is funded by the Bundesministeriums für Bildung und Forschung (BMBF)."
+  - image: "/images/funding-logo.png"
+    content: "The ClimateVisions project is co-financed by the European Union and the Bundesministeriums für Bildung und Forschung (BMBF)."
+
+  - image: "/images/partner-logo.png"
+    content: "The ClimateVisions project is supported by WWF Germany and the Intergovernmental Panel on Climate Change."
 ---

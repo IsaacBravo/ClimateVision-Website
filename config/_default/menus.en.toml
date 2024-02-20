@@ -26,21 +26,36 @@ name = "News"
 url = "news/"
 weight = 5
 
+# [[main]]
+# name = "Imprint"
+# url = "imprint/"
+# weight = 6
+
 [[main]]
+weight = 7
+name = "Pages"
+hasChildren = true
+
+[[main]]
+parent = "Tool-Box"
+name = "Tool-Box"
+url = "tool-book/"
+weight = 8
+
+[[main]]
+parent = "Pages"
 name = "Imprint"
 url = "imprint/"
-weight = 6
+weight = 9
 
-# [[main]]
-# parent = "Pages"
-# name = "Contact Us"
-# url = "contact/"
-# weight = 7
+[[main]]
+parent = "Pages"
+name = "Contact Us"
+url = "contact/"
+weight = 10
 
-# [[main]]
-# weight = 7
-# name = "Pages"
-# hasChildren = true
+
+
 
 # [[main]]
 # parent = "Pages"

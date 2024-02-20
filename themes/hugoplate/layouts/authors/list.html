@@ -6,7 +6,7 @@
       <div class="row">
         {{ $sortedPages := sort .RegularPages ".Params.weight" "asc" }}
         {{ range $sortedPages }}
-          <div class="md:col-6 lg:col-4 mb-14">
+          <div class="md:col-6 lg:col-4 mb-14" style="width: 25%;">
             {{ partial "components/author-card" . }}
           </div>
         {{ end }}
