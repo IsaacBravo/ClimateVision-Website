@@ -115,7 +115,7 @@ draft: false
     <br>
     <strong>Author(s): </strong>Isaac Bravo, Katharina Prasse, Stefanie Walter & Margret Keuper
     <br>
-    <strong>Date Presentation: </strong>19-22 September, 2023 
+    <strong>Date Presentation: </strong>28-29 September, 2023 
     <br><br>
     <strong>More information about the Workshop, see </strong><a class="link" href= "https://eufeels.com/2023/04/18/emotions-in-european-climate-politics-call-for-papers-amsterdam-28th-29th-september-2023/">here.</a>
  </p><br>
