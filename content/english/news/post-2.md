@@ -2,7 +2,7 @@
 title: "Poster presentation at NeurIPS Workshop"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-12-16T05:00:00Z
 image: "/images/NEURIPS.jpg"
 categories: ["Technology", "Data", "Science Communication"]
 author: "Katharina Prasse"
