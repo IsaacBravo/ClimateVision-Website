@@ -39,7 +39,7 @@ hasChildren = true
 [[main]]
 parent = "Pages"
 name = "Tool-Box"
-url = "tool-book/"
+url = "tool-box/"
 weight = 8
 
 [[main]]
