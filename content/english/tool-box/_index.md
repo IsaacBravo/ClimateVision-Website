@@ -3,7 +3,7 @@ title: "Tool-Box"
 meta_title: "Tool-Box"
 description: "this is meta description"
 # image_logo: "/images/logo-project.png"
-# image_diagram: "/images/diagram-project.png"
+image_diagram: "/images/comingsoon.png"
 draft: false
 ---
 
@@ -12,7 +12,8 @@ draft: false
 <div>
 <p>
 <br>
-<img src="assets\images\comingsoon.png" alt="coming soon">
+
+<!-- image included in themes/hugoplate/layouts/tool-box/list.html -->
 </p>
 </div>
 
