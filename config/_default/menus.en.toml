@@ -31,22 +31,22 @@ weight = 5
 # url = "imprint/"
 # weight = 6
 
-[[main]]
-weight = 7
-name = "Pages"
-hasChildren = true
+# [[main]]
+# weight = 7
+# name = "Pages"
+# hasChildren = true
 
 [[main]]
-parent = "Pages"
+#parent = "Pages"
 name = "Tool-Box"
 url = "tool-box/"
-weight = 8
+weight = 6
 
 [[main]]
-parent = "Pages"
+# parent = "Pages"
 name = "Imprint"
 url = "imprint/"
-weight = 9
+weight = 7
 
 # [[main]]
 # parent = "Pages"
