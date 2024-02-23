@@ -23,7 +23,7 @@ features:
 
 
   - title: "Our data"
-    image: 
+    image: "/images/data_overview.png"
     content: "We use social media from X, formely Twitter, for our analyses. To this end, we have downloaded material encompassing:"
     bulletpoints:
       - "all content shared in the years 2019 - 2022"
