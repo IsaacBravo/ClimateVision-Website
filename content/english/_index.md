@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "ClimateVisions"
-  content: "Combining expertise from social science and computer vision, this project aims to map what type of climate change related images prevail on social media and what kind of reactions and emotions they elicit in debates among social media users"
+  content: "Combining expertise from social science and computer vision, this project aims to map what type of climate change related images prevail on social media and what kind of reactions and emotions they elicit in debates among social media users."
   #button:
     #enable: true
     #label: "Get Started For Free"
@@ -23,7 +23,7 @@ features:
 
 
   - title: "Our data"
-    image: 
+    image: "/images/data_overview.png"
     content: "We use social media from X, formely Twitter, for our analyses. To this end, we have downloaded material encompassing:"
     bulletpoints:
       - "all content shared in the years 2019 - 2022"
