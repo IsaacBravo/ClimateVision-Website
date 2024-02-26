@@ -5,20 +5,57 @@
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 mb-8 text-center">
-            <h1 class="mb-4">
+            <h1 class="mb-4" style="font-size: 60px; color:#006D77;">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+            <p class="mb-8" style="font-size: 20px;">
               {{ .content | markdownify }}
             </p>
           </div>
         </div>
-        <figure>
+        <div>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+          <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+          <style>
+          .mySlides {display:none;}
+          </style>
+              
+
+          <div class="w3-content w3-section" style="max-width:500px">
+            <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/Fp9xZVcWwAYi-x6?format=jpg&name=900x900" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/FQZHqQLakAoqpie?format=png&name=900x900" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/FpvKOolXEAMz9oa?format=jpg&name=900x900" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/E0u7j0eVIAIVJuL?format=jpg&name=900x900" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/ErZksmbXEAECiBd?format=jpg&name=900x900" style="width:100%">
+          </div>
+
+          <script>
+            var myIndex = 0;
+            carousel();
+            
+            function carousel() {
+              var i;
+              var x = document.getElementsByClassName("mySlides");
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";  
+              }
+              myIndex++;
+              if (myIndex > x.length) {myIndex = 1}    
+              x[myIndex-1].style.display = "block";  
+              setTimeout(carousel, 9000);    
+            }
+            </script>
+          <p style="color: #006D77; font-style: italic; text-align: center;">Source: Twitter DataSet 2019 - 2022</p>
+
+        </div>
+
+      <!--   <figure>
           <img src="https://pbs.twimg.com/media/Fp9xZVcWwAYi-x6?format=jpg&name=small" alt="polar bear waving" class="center" \img>
           <center>
             <figcaption><a href="https://pbs.twimg.com/media/Fp9xZVcWwAYi-x6?format=jpg&name=small">image source</a></figcaption>
           </center>
-        </figure>
+        </figure> -->
         </div>
     </section>
   {{ end }}
