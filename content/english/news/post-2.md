@@ -3,7 +3,7 @@ title: "Poster presentation at NeurIPS Workshop"
 meta_title: ""
 description: "this is meta description"
 date: 2023-12-16T05:00:00Z
-image: "/images/NEURIPS.jpg"
+image: "/images/Banner-04.png"
 categories: ["Technology", "Data", "Science Communication"]
 author: "Katharina Prasse"
 tags: ["Climate Change AI", "NEURIPS2023"]

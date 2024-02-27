@@ -3,7 +3,7 @@ title: "Climate Change Visuals Workshop at the Technical University of Munich"
 meta_title: ""
 description: "this is meta description"
 date: 2023-06-12T05:00:00Z
-image: "/images/ccvision-initiative.jpg"
+image: "/images/Banner-02.png"
 categories: ["Workshop", "Science Communication"]
 author: "Isaac Bravo"
 tags: ["Journalism", "Climate Change", "Science Communication"]

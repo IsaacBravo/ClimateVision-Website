@@ -35,7 +35,7 @@ features:
     #  link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Our Toolbox"
-    image: ""
+    image: "/images/tool-box-04.png"
     content: "We will make the methods we employed easy accessible for other social science research project in creating a toolbox."
     bulletpoints:
       - "Comprehensive documentation of all methods"
