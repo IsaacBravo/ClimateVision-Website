@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-01-05T05:00:00Z
 image: "/images/Banner-01.png"
-categories: ["Technology", "Data", "Science Communication", "Text Analysis"]
+categories: ["Computer Vision","Manipulation Detection", "Science Communication", "Text Analysis"]
 author: "Katharina Prasse"
 tags: ["Science Communication", "AISCICOMM2024"]
 draft: false
