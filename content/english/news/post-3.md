@@ -12,7 +12,7 @@ draft: false
 
 We're thrilled to announce that we've been accepted to speak at AISCICOMM24 in Zurich. 
 
-Our talk will focus on the fascinating topic of image manipulation in climate change images shared on social media. Join us as we delve into the complexities of this issue and explore its implications for our understanding of climate change. Stay tuned for more updates and mark your calendars for this enlightening discussion!
+Our talk will focus on the fascinating topic of image manipulation in climate change images shared on social media. Join us as we delve into the complexities of this issue and explore its implications for our understanding of climate change. Stay tuned for more updates, and mark your calendars for this enlightening discussion!
 
 ## Abstract (extended)
 

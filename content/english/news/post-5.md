@@ -4,13 +4,14 @@ meta_title: ""
 description: "this is meta description"
 date: 2023-09-29T05:00:00Z
 image: "/images/EUFeels.jpeg"
+# image: "/images/Banner-05.png"
 categories: ["Climate Change", "Workshop", "Science Communication"]
 author: "Isaac Bravo"
 tags: ["EUfeels", "Climate Change"]
 draft: false
 ---
 
-Isaac Bravo (M.Sc) attended a workshop on Emotions in European climate politics. The workshop was hosted by the Amsterdam Centre for European Studies, which had a focus on emotions and affective dynamics in European climate change politics, including the role of the EU in these debates and Europe in a global context.
+Isaac Bravo (M.Sc) attended a workshop on Emotions in European climate politics. The workshop was hosted by the Amsterdam Centre for European Studies, which had a focus on emotions and affective dynamics in European climate change politics, including the role of the EU in these debates, and Europe in a global context.
 
 For this workshop, we presente the following research:
 <br>

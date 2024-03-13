@@ -3,7 +3,7 @@ title: "Presentation at the EUFeels Workshop: Emotions in European Climate Polit
 meta_title: ""
 description: "this is meta description"
 date: 2026-09-29T05:00:00Z
-# image: "/images/NEURIPS.jpg"
+#image: "/images/EUFeels.jpeg"
 categories: ["Climate Change", "Workshop", "Science Communication"]
 author: "Isaac Bravo"
 tags: ["EUfeels", "Climate Change"]

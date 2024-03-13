@@ -17,4 +17,4 @@ In the midst of this collaborative effort, the Visual Climate Project has emerge
 
 During the workshop, we presented our innovative methodologies and preliminary findings, highlighting the complex relationship between climate change imagery and public perception. Through our computational analysis of millions of images and tweets shared on Twitter, we offered insight into the dynamics of climate change discourse in the digital age.
 
-Armed with the knowledge gained from this collaborative effort, we are ready to embark on new avenues of research and collaboration. Our commitment to unravelling the complexities of climate change communication remains strong, and we look forward to continued collaboration with Bayerischer Rundfunk, the Technical University of Munich and other partners.
+Equipped with the knowledge gained from this collaborative effort, we are ready to embark on new avenues of research and collaboration. Our commitment to unravelling the complexities of climate change communication remains strong, and we look forward to continued collaboration and cooperation with Bayerischer Rundfunk, the Technical University of Munich and other partners.
