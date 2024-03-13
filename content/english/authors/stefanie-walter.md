@@ -8,9 +8,9 @@ social:
     icon: fa-brands fa-twitter
     link: https://twitter.com/SteWalter
 
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+#  - name: linkedin
+#    icon: fa-brands fa-linkedin
+#    link: https://linkedin.com
 
   - name: mastodon
     icon: fa-brands fa-mastodon
