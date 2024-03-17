@@ -46,7 +46,7 @@ features:
       label: ""
       link: ""
 
-  - image: "/images/funding-logo.png"
+  - image: "/images/Logos EU-02.png"
     content: "The ClimateVisions project is co-financed by the European Union and the Bundesministeriums für Bildung und Forschung (BMBF)."
 
   - image: "/images/partner-logo.png"
