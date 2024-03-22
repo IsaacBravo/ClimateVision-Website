@@ -12,6 +12,7 @@ banner:
 features:
   - title: "Our research methods"
     image: "/images/diagram-project-home.png"
+    image_title: "Source: Own visualization"
     content: "We combine social media research with automated image analyses. Among others we use the following methods:"
     bulletpoints:
       - "Image & Text Classification"
@@ -23,7 +24,8 @@ features:
 
 
   - title: "Our data"
-    image: "/images/data_overview.png"
+    image: "/images/data.png"
+    image_title: "Source: Own visualization"
     content: "We use social media from X, formely Twitter, for our analyses. To this end, we have downloaded material encompassing:"
     bulletpoints:
       - "All content shared in the years 2019 - 2022."
@@ -36,6 +38,7 @@ features:
 
   - title: "Our toolbox"
     image: "/images/tool-box-04.png"
+    image_title: "Source: Own visualization"
     content: "We will make the methods we employed easy accessible for other social science research project in creating a toolbox."
     bulletpoints:
       - "Comprehensive documentation of all methods."
