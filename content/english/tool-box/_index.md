@@ -12,7 +12,7 @@ draft: false
 <div>
 
 <p>
-In today's digital age, images play a pivotal role in shaping our understanding of complex phenomena like climate change. To empower the social science and scientific communities in their quest for deeper insights, we're thrilled to introduce the Image Analysis Toolbox—a cutting-edge resource designed to contribute to the study of climate change through the lens of imagery. This tool-box will provide freely to researchers with a suite of advanced methods, including:
+In today's digital age, images play a pivotal role in shaping our understanding of complex phenomena like climate change. To empower the social science communities in their quest for deeper insights, we're thrilled to introduce the Image Analysis Toolbox — a cutting-edge resource designed to contribute to the study of climate change through the lens of imagery. This tool-box will provide open-access to researchers, including:
 
 > <li style="font-size: 20px;">Automated Image Analysis</li> <li style="font-size: 20px;">Image Clustering</li> <li style="font-size: 20px;">Detection of Manipulated Images</li> 
 
