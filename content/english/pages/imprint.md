@@ -8,7 +8,7 @@ description: "This is meta description"
 draft: false
 ---
 
-### ClimateVision Project:
+### ClimateVisions Project:
 <hr style="border:2px solid #006D77;">
 
 <div style="background-color: #F5FAFD; border-radius: 10px; padding: 20px;">
@@ -36,7 +36,7 @@ draft: false
      <br>68131 Mannheim
      <br>Phone: +49 621 181-222 
      <br>Web domain: www.uni-mannheim.de
-     <br>Contact: XXXXXXXX.de</p>
+     <br>Contact: katharina.prasse@uni-mannheim.de</p>
     </p>
  </p>
 </div>
