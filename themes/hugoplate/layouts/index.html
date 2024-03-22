@@ -24,10 +24,11 @@
 
           <div class="w3-content w3-section" style="max-width:500px">
             <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/Fp9xZVcWwAYi-x6?format=jpg&name=900x900" style="width:100%">
-            <!-- <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/FQZHqQLakAoqpie?format=png&name=900x900" style="width:100%"> -->
             <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/FpvKOolXEAMz9oa?format=jpg&name=900x900" style="width:100%">
             <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/E0u7j0eVIAIVJuL?format=jpg&name=900x900" style="width:100%">
             <img class="mySlides w3-animate-fading" src="https://pbs.twimg.com/media/ErZksmbXEAECiBd?format=jpg&name=900x900" style="width:100%">
+            
+            <div id="imageLinks" style="text-align: center;"></div>
           </div>
 
           <script>
@@ -37,16 +38,23 @@
             function carousel() {
               var i;
               var x = document.getElementsByClassName("mySlides");
+              var links = [
+                  "https://pbs.twimg.com/media/Fp9xZVcWwAYi-x6?format=jpg&name=900x900",
+                  "https://pbs.twimg.com/media/FpvKOolXEAMz9oa?format=jpg&name=900x900",
+                  "https://pbs.twimg.com/media/E0u7j0eVIAIVJuL?format=jpg&name=900x900",
+                  "https://pbs.twimg.com/media/ErZksmbXEAECiBd?format=jpg&name=900x900"
+                ];
               for (i = 0; i < x.length; i++) {
                 x[i].style.display = "none";  
               }
               myIndex++;
               if (myIndex > x.length) {myIndex = 1}    
-              x[myIndex-1].style.display = "block";  
+              x[myIndex-1].style.display = "block";
+              document.getElementById("imageLinks").innerHTML = '<p><a href="' + links[myIndex-1] + '">Link to image source</a></p>';  
               setTimeout(carousel, 9000);    
             }
             </script>
-          <p style="color: #006D77; font-style: italic; text-align: center;">Source: Twitter DataSet 2019 - 2022</p>
+          <p style="color: #006D77; font-style: italic; text-align: center;">Source: ClimateTV dataset (Prasse et al., 2023)</p> 
 
         </div>
 
