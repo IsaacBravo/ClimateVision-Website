@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "ClimateVisions"
-  content: "Combining social science and computer vision expertise, this project aims to map what type of climate change-related images prevail on social media and what kind of reactions and emotions they elicit in debates among social media users."
+  content: "Combining social science and computer vision expertise, this project aims to understand which climate change-related images prevail on social media and what kind of reactions and emotions they elicit in debates among social media users."
   #button:
     #enable: true
     #label: "Get Started For Free"
