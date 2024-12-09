@@ -167,6 +167,20 @@ draft: false
     <strong>More information about the Conference, see </strong><a class="link" href= "https://www.comptextconference.org/">here.</a>
  </p><br>
 
+<p class="block" style="background-color: transparent;">
+    <h4>Generative Images – Generative Imageries: Challenges of Visual Communication (Research) in the Age of AI</h4>
+    <strong>Conference Name: </strong>International Conference of the DGPuK (German Communication Association) Visual Communication Section 2024
+    <br>
+    <strong>Location: </strong>Bremen, Germany
+    <br>
+    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter & Margret Keuper
+    <br>
+    <strong>Date Presentation: </strong>20-22 November, 2024 
+    <br><br>
+    <strong>More information about the Conference, see </strong><a class="link" href= "https://gi.uni-bremen.de/">here.</a>
+ </p><br>
+
+
 <!-- Template Conference Presentations
     <p class="block" style="background-color: transparent;">
     <h4>Computational Analysis of Manipulated Visual Content in Climate Change Discourse on Twitter.</h3>
