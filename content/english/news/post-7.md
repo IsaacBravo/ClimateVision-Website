@@ -11,3 +11,6 @@ draft: false
 ---
 
 
+We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.
+
+We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.
