@@ -14,6 +14,25 @@ draft: false
 <hr style="border:2px solid #006D77;"></hr>
 
 <div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<h4>I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames</h3>
+<p class="block">
+    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter, and Margret Keuper
+    <br>
+    <strong>Date Published: </strong>March 3, 2025
+    <br><br>
+    <strong>Abstract: </strong>
+    <br>
+    Visual framing analysis is a key method in social sciences for determining common themes and concepts in a given discourse. To reduce manual effort, image clustering can significantly speed up the annotation process. In this work, we phrase the clustering task as a Minimum Cost Multicut Problem [MP]. Solutions to the MP have been shown to provide clusterings that maximize the posterior probability, solely from provided local, pairwise probabilities of two images belonging to the same cluster. We discuss the efficacy of numerous embedding spaces to detect visual frames and show its superiority over other clustering methods. To this end, we employ the climate change dataset \textit{ClimateTV} which contains images commonly used for visual frame analysis. For broad visual frames, DINOv2 is a suitable embedding space, while ConvNeXt V2 returns a larger number of clusters which contain fine-grain differences, i.e. speech and protest. Our insights into embedding space differences in combination with the optimal clustering - by definition - advances automated visual frame detection. 
+    <br><br>
+    <strong>Citation:</strong> 
+    Prasse, K. et al. (2025) I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames. WACV.
+    <br>
+    <strong>Download the <a class="link" href= "https://arxiv.org/pdf/2412.01296">paper</a> and the <a class="link" href= "https://github.com/KathPra/MP4VisualFrameDetection">code</a>.</strong>
+ </p>
+</div>
+<br>
+
+<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
 <h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h3>
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Steffen Jung, Isaac Bravo, Stefanie Walter, and Margret Keuper
