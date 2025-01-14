@@ -18,7 +18,7 @@ draft: false
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter, and Margret Keuper
     <br>
-    <strong>Date Published: </strong>March 3, 2025
+    <strong>Date Published: </strong>Jan 3, 2025
     <br><br>
     <strong>Abstract: </strong>
     <br>
