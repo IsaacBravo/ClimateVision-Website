@@ -18,6 +18,6 @@ social:
 weight: 300
 ---
 
-Doctoral Candidate.
+Doctoral Candidate. <br>
 University of Mannheim.
 Data and Web Science Group, Chair of Machine Learning. 
