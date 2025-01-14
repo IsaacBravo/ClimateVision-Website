@@ -10,7 +10,7 @@ tags: ["Climate Change AI", "NEURIPS2023"]
 draft: false
 ---
 
-We were accepted to present datasets consisting of climate change images shared on X(formerly Twitter) at climatechangeai's workshop at NeurIPS 2023.
+We were accepted to present datasets consisting of climate change images shared on X (formerly Twitter) at climatechangeai's workshop at NeurIPS 2023.
  
 ## Abstract 
 
