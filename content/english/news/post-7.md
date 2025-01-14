@@ -1,16 +1,16 @@
 ---
-title: "Presentation at the EUFeels Workshop: Emotions in European Climate Politics"
+title: "Our work was accepted to WACV25: Applications Track"
 meta_title: ""
 description: "this is meta description"
-date: 2026-09-29T05:00:00Z
-#image: "/images/EUFeels.jpeg"
-categories: ["Climate Change", "Workshop", "Science Communication"]
+date: 2025-01-10T05:00:00Z
+image: "/images/WACV_logo.png"
+categories: ["Climate Change", "Clustering", "Visual Frames"]
 author: "Isaac Bravo"
-tags: ["EUfeels", "Climate Change"]
+tags: ["Computer Vision", "Climate Change"]
 draft: false
 ---
 
 
-We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.
+We are looking forward to present our automatic visual frame detection method at the Winter Conference for Computer Vision Applications in Tucson, Arizona, USA.
 
-We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.We are looking forward to partaking in the Sixth International and Interdisciplinary Conference on the Quantitative and Computational Analysis of Textual Data (COMPTEXT) in Amsterdam, the Netherlands, May 2-4, 2024.
+In this work we phrase clustering as a minimum-cost multicut problem and argue for its use in visual frame detection.
