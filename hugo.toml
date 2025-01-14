@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://web.informatik.uni-mannheim.de/climatevisions/" # use this to deploy website
-# baseURL = "/climatevisions/" ## use this to locally check changes
+baseURL = "https://web.informatik.uni-mannheim.de/climatevisions/" # use this to deploy website # use this to deploy website
+#baseURL = "/climatevisions" ## use this to locally check changes
 # Title of your website (required).
 title = "ClimateVisions"
 # Your theme name
@@ -12,7 +12,7 @@ timeZone = "America/New_York"
 
 #paginate.pagerSize = 4 # see https://gohugo.io/extras/pagination/
 [pagination]
-pagerSize = 10
+pagerSize = 4
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
