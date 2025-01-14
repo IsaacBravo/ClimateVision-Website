@@ -10,11 +10,11 @@ draft: false
 
 <!-- {{< toc >}} -->
 
-### Project Publications:
+### Project Publications
 <hr style="border:2px solid #006D77;"></hr>
 
 <div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
-<h4>I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames</h3>
+<h4>I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames</h4>
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter, and Margret Keuper
     <br>
@@ -33,7 +33,7 @@ draft: false
 <br>
 
 <div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
-<h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h3>
+<h4>Towards Understanding Climate Change Perceptions: A Social Media Dataset</h4>
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Steffen Jung, Isaac Bravo, Stefanie Walter, and Margret Keuper
     <br>
