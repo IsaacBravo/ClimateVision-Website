@@ -13,6 +13,8 @@ draft: false
 
 Isaac Bravo (M.Sc) attended a workshop on Emotions in European climate politics. The workshop was hosted by the Amsterdam Centre for European Studies, which had a focus on emotions and affective dynamics in European climate change politics, including the role of the EU in these debates, and Europe in a global context.
 
+<!--more-->
+
 For this workshop, we presente the following research:
 <br>
 <br>

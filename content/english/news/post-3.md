@@ -3,7 +3,7 @@ title: "We are accepted to give a speech at AISCICOMM24"
 meta_title: ""
 description: "this is meta description"
 date: 2024-01-05T05:00:00Z
-image: "/images/Banner-01.png"
+image: "/images/aiscicomm24_logo.png"
 categories: ["Computer Vision","Manipulation Detection", "Science Communication", "Text Analysis"]
 author: "Katharina Prasse"
 tags: ["Science Communication", "AISCICOMM2024"]
@@ -13,6 +13,8 @@ draft: false
 We're thrilled to announce that we've been accepted to speak at AISCICOMM24 in Zurich. 
 
 Our talk will focus on the fascinating topic of image manipulation in climate change images shared on social media. Join us as we delve into the complexities of this issue and explore its implications for our understanding of climate change. Stay tuned for more updates, and mark your calendars for this enlightening discussion!
+
+<!--more-->
 
 ## Abstract (extended)
 
@@ -27,8 +29,8 @@ commonly uses images from "lab scenarios" to identify manipulated content, we fo
 polarized topic of climate change to explore how manipulated images shared on Twitter may
 contribute to polarizing debates between believers and sceptics (deniers) in anthropogenic climate
 change. This study contributes to two important aspects in the debate on science communication
-in the age of AI: a) How manipulated images are spreading on the social media landscape, and the
-resulting impact on public debates, and b) how methodological advances in machine learning and
+in the age of AI: a&#41; How manipulated images are spreading on the social media landscape, and the
+resulting impact on public debates, and b&#41; how methodological advances in machine learning and
 computer vision can help scientists to detect and analyse manipulated images.</p> 
 
 <p> Climate change is a global phenomenon which has received considerable media attention in recent
@@ -38,7 +40,7 @@ In the digital media environment, the emergence of climate change information on
 especially visual content, has changed how individuals understand this phenomenon and how it
 encourages collective action (Pearce et al., 2019). Despite the scientific evidence of the
 anthropocentric origin of climate change, contrarian voices still reject this reality and the related
-risks (though in many cases, these are minority opinions (Whitmarsh, 2011). The causes of such
+risks &#40;though in many cases, these are minority opinions (Whitmarsh, 2011)&#41;. The causes of such
 positions include disagreement between scientists (Patt, 2007) and people's attitudes and beliefs
 (Kahan et al., 2012).</p> 
 
