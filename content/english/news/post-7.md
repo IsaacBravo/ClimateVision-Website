@@ -13,4 +13,4 @@ draft: false
 
 We are looking forward to present our automatic visual frame detection method at the Winter Conference for Computer Vision Applications in Tucson, Arizona, USA.
 
-In this work we phrase clustering as a minimum-cost multicut problem and argue for its use in visual frame detection.
+In this work we phrase clustering as a minimum-cost multicut problem and argue for its use in visual frame detection. We show its merit on 2 toy dataset and on real-life X (formerly Twitter) images.
