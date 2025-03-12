@@ -115,20 +115,6 @@ draft: false
     <strong>More information about the Conference, see </strong><a class="link" href= "https://wacv2025.thecvf.com/">here.</a>
  </p><br>
 
-<p class="block" style="background-color: transparent;">
-    <h4>Computational Analysis of Manipulated Visual Content in Climate Change Discourse on Twitter.</h4>
-    <strong>Conference Name: </strong>6th Annual COMPTEXT Conference 2024
-    <br>
-    <strong>Location: </strong>Amsterdam, Netherlands
-    <br>
-    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter & Margret Keuper
-    <br>
-    <strong>Date Presentation: </strong>2-4 May, 2024 
-    <br><br>
-    <strong>More information about the Conference, see </strong><a class="link" href= "https://www.comptextconference.org/">here.</a>
- </p><br>
-
-
 <!-- Template Conference Presentations
     <p class="block" style="background-color: transparent;">
     <h4>Computational Analysis of Manipulated Visual Content in Climate Change Discourse on Twitter.</h3>
