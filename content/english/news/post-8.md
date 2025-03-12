@@ -1,5 +1,5 @@
 ---
-title: "WACV25 was a big success"
+title: "Climate Visions at WACV25"
 meta_title: ""
 description: "this is meta description"
 date: 2025-03-01T05:00:00Z
