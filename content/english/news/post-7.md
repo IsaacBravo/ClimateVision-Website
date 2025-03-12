@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2025-01-10T05:00:00Z
 image: "/images/WACV_logo.png"
 categories: ["Climate Change", "Clustering", "Visual Frames"]
-author: "Isaac Bravo"
+author: "Katharina Prasse"
 tags: ["Computer Vision", "Climate Change"]
 draft: false
 ---
