@@ -27,7 +27,7 @@ draft: false
     <strong>Citation:</strong> 
     Prasse, K. et al. (2025) I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames. WACV.
     <br>
-    <strong>Download the <a class="link" href= "https://arxiv.org/pdf/2412.01296">paper</a> and the <a class="link" href= "https://github.com/KathPra/MP4VisualFrameDetection">code</a>.</strong>
+    <strong>Download the <a class="link" href= "https://openaccess.thecvf.com/content/WACV2025/html/Prasse_I_Spy_with_My_Little_Eye_A_Minimum_Cost_Multicut_WACV_2025_paper.html">paper</a> and the <a class="link" href= "https://github.com/KathPra/MP4VisualFrameDetection">code</a>.</strong>
  </p>
 </div>
 <br>
