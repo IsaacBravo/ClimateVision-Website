@@ -13,7 +13,7 @@ draft: false
 ### Project Publications:
 <hr style="border:2px solid #006D77;"></hr>
 
-<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+<div style="background-color: #F5FAFD; border-radius: 10px; padding: 20px;">
 <h4>I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames</h4>
 <p class="block">
     <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter, and Margret Keuper
