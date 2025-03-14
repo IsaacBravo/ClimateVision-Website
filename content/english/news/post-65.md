@@ -1,5 +1,5 @@
 ---
-title: "CCVision Network Meeting at C3DS in Exeterk"
+title: "CCVision Network Meeting at C3DS in Exeter"
 meta_title: ""
 description: "this is meta description"
 date: 2024-06-25T05:00:00Z
