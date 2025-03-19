@@ -1,1 +1,120 @@
 // Add your own custom styles here
+.accordion {
+    @apply border border-gray-300 rounded-lg mb-4;
+}
+.accordion-header {
+    @apply bg-gray-200 px-4 py-2 font-semibold cursor-pointer;
+}
+// .accordion-content {
+//     @apply hidden p-4 border-t border-gray-300;
+// }
+.accordion.open .accordion-content {
+    @apply block;
+}
+
+.download-button {
+    display: inline-block;
+    background-color: #006D77; /* Example blue color */
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-size: 0.85em;
+}
+
+.centered-block {
+display: block;
+margin: 0 auto;
+width: fit-content; /* Or a specific width if you prefer */
+}
+
+.download-button:hover {
+    color: white;
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.conference-card {
+    background: #ffffff; /* Light Blue Background */
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e0e7ec;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+    max-width: 800px;
+    margin: 10px auto;
+}
+
+/* Conference Title */
+.conference-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #0d2538;
+    margin-bottom: 15px;
+}
+
+/* Conference Details */
+.conference-details p {
+    font-size: 1em;
+    color: #444;
+    margin: 5px 0;
+}
+
+/* Conference Link */
+.conference-link a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.conference-link a:hover {
+    text-decoration: underline;
+}
+
+/* Presentation Section */
+.presentation-section {
+    margin-top: 5px;
+    padding: 10px;
+    background: #eef5fc;
+    border-radius: 8px;
+}
+
+.presentation-section h5 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0d2538;
+    margin-bottom: 10px;
+}
+
+/* iFrame */
+.presentation-iframe {
+    border: none;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    /* Gallery Section */
+.gallery-section {
+    text-align: center;
+}
+
+.image-gallery {
+    display: flex; /* Change from grid to flex */
+    flex-wrap: wrap; /* Allows images to wrap if container is too small */
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.image-gallery img {
+max-width: 100%;
+height: auto;
+object-fit: cover;
+border-radius: 5px;
+transition: transform 0.3s ease-in-out;
+}
+
+.image-gallery img:hover {
+    transform: scale(1.1);
+}
