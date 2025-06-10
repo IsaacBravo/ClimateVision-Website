@@ -50,7 +50,7 @@ features:
       link: ""
 
   - image: "/images/Logos EU-02.png"
-    content: "The ClimateVisions project is co-financed by the European Union and the Bundesministeriums für Bildung und Forschung (BMBF)."
+    content: "The ClimateVisions project is co-financed by the European Union and the Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)."
 
   #- image: "/images/partner-logo.png"
   #  content: "The ClimateVisions project is supported by WWF Germany, Munich Data Science Institute, and the Intergovernmental Panel on #Climate Change."
