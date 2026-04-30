@@ -43,10 +43,15 @@ url = "tool-box/"
 weight = 6
 
 [[main]]
+name = "Best Practice Guide"
+url = "best-practice-guide/"
+weight = 7
+
+[[main]]
 # parent = "Pages"
 name = "Imprint"
 url = "imprint/"
-weight = 7
+weight = 8
 
 # [[main]]
 # parent = "Pages"
