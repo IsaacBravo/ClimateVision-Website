@@ -62,35 +62,9 @@ draft: false
     <br>
     Visualisations play a key role in conveying the complexities of climate change to raise awareness and encourage informed action. This paper presents a combination of systematic and scoping literature review (2005 – 2023) that employs content analysis to analyse current research on climate change visualisations of traditional and digital media landscapes. Findings show that most existing research concentrates on traditional media to the detriment of social media, with a predominance of studies focused on Western countries. Framing theory emerges as the predominant theoretical framework, especially in qualitative studies. By analysing and comparing a large corpus of scientific studies, we aim to elucidate the predominant topics, methodologies, gaps, and further strive to outline key challenges and implications for future research directions.
     <br><br>
-    <!-- <strong>Citation:</strong> 
-    Prasse, K. et al. (Year) Title Paper. <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">https://doi.org/10.1038/s41597-022-01616-8</a>
-    <br>
-    <strong>Download the paper <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">here.</a></strong> -->
  </p>
 </div>
 
-<!-- Template Publications
-
-<div style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
-<h4>Title Paper 2 Climate Vision Project Template</h3>
-<p class="block">
-    <strong>Author(s): </strong>Katharina Prasse, Isaac Bravo, Stefanie Walter and Margret Keuper
-    <br>
-    <strong>Date Published: </strong>Month_Name XX, 202X
-    <br><br>
-    <strong>Abstract: </strong>
-    <br>
-    lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    <br><br>
-    <strong>Citation:</strong> 
-    Prasse, K. et al. (Year) Title Paper. <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">https://doi.org/10.1038/s41597-022-01616-8</a>
-    <br>
-    <strong>Download the paper <a class="link" href= "https://www.nature.com/articles/s41597-022-01616-8">here.</a></strong>
- </p>
-</div> -->
-
-
-<!-- <hr style="border:2px solid #006D77;"> -->
 <br>
 <br>
 
@@ -98,10 +72,9 @@ draft: false
 
 <hr style="border:2px solid #006D77;">
 
-<div style="background-color: white; border-radius: 10px; padding: 0px; border-color: white">
-
-{{< accordion "2025" >}}
-
+<div class="accordion">
+<button class="accordion-header" data-accordion>2025<svg class="accordion-icon" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button>
+<div class="accordion-content">
 <div class="conference-card">
     <h4 class="conference-title">I Spy With My Little Eye: A Minimum Cost Multicut Investigation of Dataset Frames.</h4>
     <div class="conference-details">
@@ -114,37 +87,16 @@ draft: false
         <strong>More information about the Conference, see </strong>
         <a href="https://wacv2025.thecvf.com/" target="_blank">here.</a>
     </p>
-</div>    
-    <!-- <div class="presentation-section">
-        <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1E92dpYbqyVz13PitxapPNRTGqDwgIWej/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
-        <br>
-        <a href="https://drive.google.com/uc?export=download&id=1E92dpYbqyVz13PitxapPNRTGqDwgIWej"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
-    </div> -->
-        <!-- Gallery Section
-    <div class="presentation-section gallery-section">
-        <h5>Presentation Images</h5>
-        <div class="image-gallery">
-    {{< figure src="/content/english/images/Figure05.jpg" title="title of image" width="400">}}
-            <img src="/english/images/Figure05.jpg" alt="Image 1">
-            <img src="/english/images/Figure04.png" alt="Image 2">
-    </div> -->
-{{< /accordion >}}
-
-
-{{< accordion "2024" >}}
-
+</div>
+</div>
+</div>
+<div class="accordion">
+<button class="accordion-header" data-accordion>2024<svg class="accordion-icon" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button>
+<div class="accordion-content">
 <div class="conference-card">
     <h4 class="conference-title">Detecting Manipulated Visuals: A Computational Approach in the Climate Change Discourse.</h4>
     <div class="conference-details">
-        <p><strong><li>Conference Name:</strong> Annual Conference of the “Science Communication” Division (DGPuK)</p>
+        <p><strong><li>Conference Name:</strong> Annual Conference of the "Science Communication" Division (DGPuK)</p>
         <p><strong><li>Location:</strong> Zurich, Switzerland</p>
         <p><strong><li>Author(s):</strong> Katharina Prasse, Isaac Bravo, Stefanie Walter & Margret Keuper</p>
         <p><strong><li>Date Presentation:</strong> June 6-7, 2024</p>
@@ -155,21 +107,12 @@ draft: false
     </p>
     <div class="presentation-section">
         <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1AYQH1LMnY9AsIcsH_lAF8249EJHfQdDc/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
+        <iframe src="https://drive.google.com/file/d/1AYQH1LMnY9AsIcsH_lAF8249EJHfQdDc/preview" width="85%" height="300px" class="presentation-iframe"></iframe>
         <br>
-        <a href="https://drive.google.com/uc?export=download&id=1AYQH1LMnY9AsIcsH_lAF8249EJHfQdDc"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1AYQH1LMnY9AsIcsH_lAF8249EJHfQdDc" class="download-button centered-block" download="presentation.pdf">Download Presentation (PDF)</a>
     </div>
-</div>  
- 
+</div>
 <br>
-
 <div class="conference-card">
     <h4 class="conference-title">Computational Analysis of Manipulated Visual Content in Climate Change Discourse on Twitter.</h4>
     <div class="conference-details">
@@ -184,24 +127,14 @@ draft: false
     </p>
     <div class="presentation-section">
         <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1d4DpOyFvelEhwB2AsxZxFcE1EFsGdHIu/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
+        <iframe src="https://drive.google.com/file/d/1d4DpOyFvelEhwB2AsxZxFcE1EFsGdHIu/preview" width="85%" height="300px" class="presentation-iframe"></iframe>
         <br>
-        <a href="https://drive.google.com/uc?export=download&id=1d4DpOyFvelEhwB2AsxZxFcE1EFsGdHIu"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1d4DpOyFvelEhwB2AsxZxFcE1EFsGdHIu" class="download-button centered-block" download="presentation.pdf">Download Presentation (PDF)</a>
     </div>
-</div>    
-
+</div>
 <br>
-
 <div class="conference-card">
-    <h4 class="conference-title">Analyzing Manipulated Images
-in the Climate Change Discourse</h4>
+    <h4 class="conference-title">Analyzing Manipulated Images in the Climate Change Discourse</h4>
     <div class="conference-details">
         <p><strong><li>Conference Name:</strong> Generative Images - Generative Imageries: Challenges of Visual Communication (Research) in the Age of AI</p>
         <p><strong><li>Location:</strong> Bremen, Germany</p>
@@ -214,23 +147,16 @@ in the Climate Change Discourse</h4>
     </p>
     <div class="presentation-section">
         <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1E92dpYbqyVz13PitxapPNRTGqDwgIWej/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
+        <iframe src="https://drive.google.com/file/d/1E92dpYbqyVz13PitxapPNRTGqDwgIWej/preview" width="85%" height="300px" class="presentation-iframe"></iframe>
         <br>
-        <a href="https://drive.google.com/uc?export=download&id=1E92dpYbqyVz13PitxapPNRTGqDwgIWej"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1E92dpYbqyVz13PitxapPNRTGqDwgIWej" class="download-button centered-block" download="presentation.pdf">Download Presentation (PDF)</a>
     </div>
-</div>    
-
-{{< /accordion >}}
-
-{{< accordion "2023" >}}
-
+</div>
+</div>
+</div>
+<div class="accordion">
+<button class="accordion-header" data-accordion>2023<svg class="accordion-icon" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button>
+<div class="accordion-content">
 <div class="conference-card">
     <h4 class="conference-title">Towards Understanding Climate Change Perceptions: A Social Media Dataset</h4>
     <div class="conference-details">
@@ -243,10 +169,8 @@ in the Climate Change Discourse</h4>
         <strong>More information about the Conference, see </strong>
         <a href="https://www.climatechange.ai/events/neurips2023" target="_blank">here.</a>
     </p>
-</div>    
-
+</div>
 <br>
-
 <div class="conference-card">
     <h4 class="conference-title">Analysing the Role of Social Media in Shaping Public Opinion on Climate Change: A Comparative Study Across Regions Using Automated Image and Text Analysis</h4>
     <div class="conference-details">
@@ -261,23 +185,14 @@ in the Climate Change Discourse</h4>
     </p>
     <div class="presentation-section">
         <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1Kkm7eMJGrBaKrcqBsryd1F6KDdNUsQMe/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
+        <iframe src="https://drive.google.com/file/d/1Kkm7eMJGrBaKrcqBsryd1F6KDdNUsQMe/preview" width="85%" height="300px" class="presentation-iframe"></iframe>
         <br>
-        <a href="https://drive.google.com/uc?export=download&id=1Kkm7eMJGrBaKrcqBsryd1F6KDdNUsQMe"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1Kkm7eMJGrBaKrcqBsryd1F6KDdNUsQMe" class="download-button centered-block" download="presentation.pdf">Download Presentation (PDF)</a>
     </div>
-</div>    
-
+</div>
 <br>
-
 <div class="conference-card">
-    <h4 class="conference-title">Analysing the effects of visual framing on social media in shaping people’s emotional engagement on climate change</h4>
+    <h4 class="conference-title">Analysing the effects of visual framing on social media in shaping people's emotional engagement on climate change</h4>
     <div class="conference-details">
         <p><strong><li>Workshop Name:</strong> Emotions in European Climate Politics workshop</p>
         <p><strong><li>Location:</strong> Amsterdam, Netherlands</p>
@@ -290,260 +205,12 @@ in the Climate Change Discourse</h4>
     </p>
     <div class="presentation-section">
         <h5>Presentation Slides:</h5>
-        <iframe src="https://drive.google.com/file/d/1o4RdLthOfaiviiewhybCdEXqp6ZS_gKI/preview" 
-                width="85%" height="300px" 
-                class="presentation-iframe">
-        </iframe>
+        <iframe src="https://drive.google.com/file/d/1o4RdLthOfaiviiewhybCdEXqp6ZS_gKI/preview" width="85%" height="300px" class="presentation-iframe"></iframe>
         <br>
-        <a href="https://drive.google.com/uc?export=download&id=1o4RdLthOfaiviiewhybCdEXqp6ZS_gKI"
-       class="download-button centered-block"
-       download="presentation.pdf">
-        Download Presentation (PDF)
-        </a>
+        <a href="https://drive.google.com/uc?export=download&id=1o4RdLthOfaiviiewhybCdEXqp6ZS_gKI" class="download-button centered-block" download="presentation.pdf">Download Presentation (PDF)</a>
     </div>
-</div>    
-
-<br>
-
-{{< /accordion >}}
-
-
-
-
-
 </div>
-<br>
-
+</div>
+</div>
 
 <br><br><br><br><br>
-
-<!-- Markdown Elements
-
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6. 
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<hr>
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-### Button
-
-{{< button label="Button" link="/" style="solid" >}}
-
-<hr>
-
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
-
-{{< tabs >}}
-{{< tab "Tab 1" >}}
-
-#### Did you come here for something in particular?
-
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 3" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
-### Accordions
-
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-<hr>
-
-### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-### Blockquote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-<hr>
-
-### Image
-
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-
-<hr>
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Slider
-
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Youtube video
-
-{{< youtube ResipmZmpDU >}}
-
-<hr>
-
-### Custom video
-
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}} 
--->
